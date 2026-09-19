@@ -1,0 +1,7 @@
+# Core (required)
+python-dotenv>=1.0.0
+
+# Optional upgrades - install if you want them, system works without.
+# openai>=1.40.0          # enables LLM-based content analysis
+# tavily-python>=0.5.0    # enables real-time domain/campaign web search
+# gradio>=4.44.0          # enables the web UI (app_gradio.py)

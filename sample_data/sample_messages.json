@@ -1,0 +1,32 @@
+[
+  {
+    "text": "URGENT!! Your account will be SUSPENDED. Click http://bit.ly/verify-now123 immediately to confirm your password and avoid closure.",
+    "sender": "security@paypa1-alerts.tk",
+    "channel": "email",
+    "metadata": {"account_age_days": 1, "send_rate_per_hour": 500}
+  },
+  {
+    "text": "Hi Riya, attaching the updated project timeline we discussed on the call. Let me know if the milestones look right.",
+    "sender": "amit.sharma@company.com",
+    "channel": "email",
+    "metadata": {"account_age_days": 900}
+  },
+  {
+    "text": "CONGRATULATIONS!!! You have WON a $1,000,000 lottery prize! Claim your reward now: http://192.168.5.9/claim",
+    "sender": "noreply@lucky-draw.xyz",
+    "channel": "sms",
+    "metadata": {"account_age_days": 0}
+  },
+  {
+    "text": "Reminder: your electricity bill of Rs. 1,240 is due on 25th. Pay via the official app to avoid late fee.",
+    "sender": "billing@discom.gov.in",
+    "channel": "sms",
+    "metadata": {"account_age_days": 1200}
+  },
+  {
+    "text": "Verify your bank OTP is 483920 to complete the wire transfer of your inheritance claim. Reply immediately.",
+    "sender": "support@hdfcbank-secure.info",
+    "channel": "sms",
+    "metadata": {"account_age_days": 2, "send_rate_per_hour": 300}
+  }
+]
