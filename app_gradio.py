@@ -401,5 +401,10 @@ with gr.Blocks(title="Message Safety Check", theme=theme, css=CUSTOM_CSS) as dem
         outputs=[headline_out, workflow_out],
     )
 
+import os
+
 if __name__ == "__main__":
-    demo.launch(share=True)
+    demo.launch(
+        server_name="0.0.0.0",
+        server_port=int(os.environ.get("PORT", 7860)),
+    )
